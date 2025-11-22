@@ -1,0 +1,5 @@
+VERSION CONTROL:
+
+Version control records every change to project files and stores metadata(who,when,why) made that change .
+It enables safe experiments (branching), teamwork(merging),and reverting(undo mistakes).To me it's essential 
+for reproductibility and collaborative development.
